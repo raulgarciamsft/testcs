@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/src/Testcs/obj
+/test/UnitTest/bin/Debug/netstandard2.0
+/test/UnitTest/obj
